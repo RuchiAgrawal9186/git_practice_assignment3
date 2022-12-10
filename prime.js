@@ -1,7 +1,8 @@
 num=13
-factro=0
+factor=0
 for(i=1;i<=num;i++){
   if(num%i==0){
    factor++
   }
 }
+console.log(factor);
