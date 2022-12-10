@@ -5,4 +5,10 @@ for(i=1;i<=num;i++){
    factor++
   }
 }
-console.log(factor);
+if(factor==2){
+console.log("Its prime")
+}
+else{
+console.log("Its not prime")
+}
+
