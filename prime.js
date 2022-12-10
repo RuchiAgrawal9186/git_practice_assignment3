@@ -11,3 +11,4 @@ console.log("Its prime")
 else{
 console.log("Its not prime")
 }
+
